@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @PedroRicoPaula
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, PHP and MySQL
-- 💞️ I’m looking to collaborate on ...
+Hello 👋, I'm Pedro Paula, a highly motivated Junior Web Developer from Portugal. 
+I'm interested in learning new languages like React and Computer Science. 
+Currently, I work with HTML, CSS, JavaScript, PHP, and MySQL. I use Bootstrap as a JavaScript framework. 
+I'm dedicated to enhancing my skills as a developer and I'm also keen on learning about Team Management.
+
+
 - 📫 How to reach me pedroricopaula@gmail.com
 
 <!---
