@@ -1,5 +1,5 @@
 Hello 👋, I'm Pedro Paula, a highly motivated Web Developer from Portugal. 
-I'm interested in learning new languages like React and Computer Science. 
+I'm learning new languages like C#, .NET and 2 CMS (Umbraco and Tilda). 
 Currently, I work with HTML, CSS, JavaScript, PHP, and MySQL. I use Bootstrap as a JavaScript framework. 
 I'm dedicated to enhancing my skills as a developer.
 
