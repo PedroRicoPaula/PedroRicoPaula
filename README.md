@@ -1,10 +1,11 @@
-Hello 👋, I'm Pedro Paula, a highly motivated Web Developer from Portugal. 
-I'm learning new languages like C#, .NET and 2 CMS (Umbraco and Tilda). 
-Currently, I'm doing an Internship at Ahau Software, I work with HTML, CSS, JavaScript, C#, ASP.NET, and MySQL. I use Bootstrap as a JavaScript framework. 
-I'm dedicated to enhancing my skills as a developer.
+Hello 👋 I'm Pedro Paula, a Web Development student at the University of the Azores, currently doing an internship at Ahau Software. 
+I have hands-on experience with technologies such as HTML5, CSS/SASS, JavaScript, PHP, C#, ASP.NET, .NET, and SQL. 
+I often use Bootstrap to streamline my frontend development, and I follow the Scrum methodology in my workflow. 
+I'm passionate about expanding my knowledge in areas like Node.js, C#, computer science, and team leadership. 
+Outside of tech, I'm an active roller hockey player and a base coach, bringing the same energy and teamwork from the rink into every project I work on.
 
 
-- 📫 How to reach me pedroricopaula@gmail.com
+- 📫 How to reach me work@pedropaula.com
 
 <!---
 PedroRicoPaula/PedroRicoPaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
