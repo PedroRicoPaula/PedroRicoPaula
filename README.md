@@ -4,7 +4,7 @@ I often use Bootstrap to streamline my frontend development, and I follow the Sc
 I'm passionate about expanding my knowledge in areas like Node.js, C#, computer science, and team leadership. 
 Outside of tech, I'm an active roller hockey player and a base coach, bringing the same energy and teamwork from the rink into every project I work on.
 
-
+- 🌐 Portfolio https://pedropaula.com/
 - 📫 How to reach me work@pedropaula.com
 
 <!---
