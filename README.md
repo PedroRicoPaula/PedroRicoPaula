@@ -1,8 +1,23 @@
-Hello 👋 I'm Pedro Paula, a Web Development student at the University of the Azores, currently doing an internship at Ahau Software. 
-I have hands-on experience with technologies such as HTML5, CSS/SASS, JavaScript, PHP, C#, ASP.NET, .NET, and SQL. 
-I often use Bootstrap to streamline my frontend development, and I follow the Scrum methodology in my workflow. 
-I'm passionate about expanding my knowledge in areas like Node.js, C#, computer science, and team leadership. 
-Outside of tech, I'm an active roller hockey player and a base coach, bringing the same energy and teamwork from the rink into every project I work on.
+# 👋 Hello, I'm Pedro Paula
+
+I’m a **Web Developer at Ahau Software** and a graduate of the University of the Azores.
+
+### 💻 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, TailwindCSS, shadcn/ui, Bootstrap
+- **Backend:** Node.js, C#, ASP.NET, PHP, Express.js
+- **Databases & ORM:** PostgreSQL, SQL, Drizzle ORM
+- **APIs & Integrations:** SendGrid, Stripe
+- **Other:** .NET, Scrum methodology
+
+### 🚀 About Me
+- Currently working on real-world projects at **Ahau Software**
+- Developer of the [hoqueiclubepdl.com](https://hoqueiclubepdl.com) website, which I continue to maintain and improve outside of work
+- Strong foundation from university studies, complemented by professional experience
+- Passionate about learning and improving in web technologies, computer science, and team leadership
+
+### ⚡ Beyond Tech  
+Outside of development, I’m an **active roller hockey player** and **base coach**, carrying the same teamwork and drive from the rink into every project.
+
 
 - 🌐 Portfolio https://pedropaula.com/
 - 📫 How to reach me work@pedropaula.com
