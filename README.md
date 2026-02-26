@@ -4,8 +4,8 @@ I’m a **Web Developer at Ahau Software** and a graduate of the University of t
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, TailwindCSS, shadcn/ui, Bootstrap
-- **Backend:** Node.js, C#, ASP.NET, PHP, Express.js
-- **Databases & ORM:** PostgreSQL, SQL, Drizzle ORM
+- **Backend:** Node.js, C#, ASP.NET, Express.js
+- **Databases & ORM:** PostgreSQL, Drizzle ORM
 - **APIs & Integrations:** SendGrid/MailerSend, Stripe
 - **Other:** .NET, Scrum methodology
 
