@@ -10,7 +10,7 @@ I’m a **Web Developer at Ahau Software** and a graduate of the University of t
 - **Other:** .NET, Scrum methodology
 
 ### 🚀 About Me
-- Currently working on real-world projects at **Ahau Software** - [https://acores.ai](https://acores.ai/)
+- Currently working on real-world projects at **Ahau Software**
 - Developer of the [hoqueiclubepdl.com](https://hoqueiclubepdl.com) website, which I continue to maintain and improve outside of work
 - Strong foundation from university studies, complemented by professional experience
 - Passionate about learning and improving in web technologies, computer science, and team leadership
