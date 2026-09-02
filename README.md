@@ -1,16 +1,17 @@
 # 👋 Hello, I'm Pedro Paula
 
-I’m a **Web Developer at Ahau Software** and a graduate of the University of the Azores.
+I’m a **FullStack Web Developer** and a graduate of the University of the Azores.
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, TailwindCSS, shadcn/ui, Bootstrap
 - **Backend:** Node.js, C#, ASP.NET, Express.js
-- **Databases & ORM:** PostgreSQL, Drizzle ORM
+- **Databases & ORM:** PostgreSQL, SQL, MySQL, Drizzle ORM
 - **APIs & Integrations:** SendGrid/MailerSend, Stripe
 - **Other:** .NET, Scrum methodology
 
 ### 🚀 About Me
-- Currently working on real-world projects at **Ahau Software**
+- Currently working on personal projects to improve my skills
+- Currently self learning overall architecture of the AI field (Foundations, ML/Deep learning, Transformers/LLMs, Knowledge Systems, Agents, Evaluation/Safety, Systems and Frontier)
 - Developer of the [hoqueiclubepdl.com](https://hoqueiclubepdl.com) website, which I continue to maintain and improve outside of work
 - Strong foundation from university studies, complemented by professional experience
 - Passionate about learning and improving in web technologies, computer science, and team leadership
