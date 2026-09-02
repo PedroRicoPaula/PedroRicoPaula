@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Pedro Paula
 
-I’m a **FullStack Web Developer** and a graduate of the University of the Azores.
+I’m a **Full Stack Web Developer** and a graduate of the University of the Azores.
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, TailwindCSS, shadcn/ui, Bootstrap
